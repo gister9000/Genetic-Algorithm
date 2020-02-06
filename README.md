@@ -1,7 +1,7 @@
 # Genetic-Algorithm
 Genetic algorithm proven to be very effective on optimization problems with many local optima. Supports binary and floating point representations. Mimicks natural selection to find global optimum.
 
-[+] Comes with 5 prepared test problems (check pdf for functions, text is in Croatian though)
+[+] Comes with 5 prepared test problems (check pdf for functions, text is in Croatian though). <br>
 [+] Shows boxplots of the population which is useful for testing various configurations. 
 
 # Usage
