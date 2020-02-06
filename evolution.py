@@ -5,9 +5,7 @@ import matplotlib.pyplot as plt
 import time
 
 if len(sys.argv) != 7:
-    print("python3 dz4.py <population_size> <binary/float> <mutation_prob> <crossover_prob> <max_iter>")
-    # f3, f7: 500 float  0.05 0.3 1000000
-    #
+    print("python3 evolution.py <population_size> <binary/float> <mutation_prob> <crossover_prob> <max_iter> <task_number>")
     exit()
 
 population_size = int(sys.argv[1])
