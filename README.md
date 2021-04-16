@@ -10,7 +10,7 @@ python3 evolution.py <population_size> <binary/float> <mutation_prob> <crossover
 
 # Example
 Finding minimum of Schaffer function and slightly modified Schaffer function (see pdf) in 3 and 6 dimensions. 
-
+```
 $ python3 evolution.py 50 binary 0.05 0.3 1000 3
 Generation  1 : best chromosome:  -26.333986355959915  8.53224010926077  150  
 Function value: 7.775098620854167e-06
@@ -36,3 +36,4 @@ Number of function evaluations:  2667
 Generation  102 : best chromosome:  -16.82989631563775  -21.935423525001877  149.99986484940956  
 Function value: 0.0
 (...)
+```
